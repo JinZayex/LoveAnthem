@@ -1,0 +1,626 @@
+[
+  { 
+    "idCanzone": "AUD-20191111-WA0117.opus", 
+    "nomeCanzone": "Facit na telefonat", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20200401-WA0138.opus", 
+    "nomeCanzone": "A te", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20200411-WA0138.opus", 
+    "nomeCanzone": "Piccante", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20200411-WA0144.opus", 
+    "nomeCanzone": "Scratch", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20200411-WA0145.opus", 
+    "nomeCanzone": "Touch d mamt", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20200411-WA0147.opus", 
+    "nomeCanzone": "Scancillisci", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20210414-WA0032.opus", 
+    "nomeCanzone": "Dalla Savana", 
+    "artisti": ["Petro"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20210414-WA0039.mp3", 
+    "nomeCanzone": "Due barre", 
+    "artisti": ["QG"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20210415-WA0022.opus", 
+    "nomeCanzone": "Dio è morto", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20210507-WA0020.opus", 
+    "nomeCanzone": "Renato non ti agitare", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20210619-WA0010.opus", 
+    "nomeCanzone": "Wasting my time", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20210623-WA0013.opus", 
+    "nomeCanzone": "Dolmen", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20210623-WA0014.opus", 
+    "nomeCanzone": "Ossesione", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20210623-WA0027.opus", 
+    "nomeCanzone": "Libero e svincolato (Nida version)", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20210624-WA0012.mp3", 
+    "nomeCanzone": "Semb", 
+    "artisti": ["QG"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20210721-WA0005.opus", 
+    "nomeCanzone": "Blu cobalto (Nida version)", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20210723-WA0012.opus", 
+    "nomeCanzone": "Parapetto", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20211021-WA0035.opus", 
+    "nomeCanzone": "Grazie a Dio", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20211022-WA0048.opus", 
+    "nomeCanzone": "Mannaggia a te", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20211103-WA0048.opus", 
+    "nomeCanzone": "Blu cobalto 2 (Nida version)", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20211106-WA0041.mp3", 
+    "nomeCanzone": "Zio Carlett", 
+    "artisti": ["QG"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20211106-WA0072.opus", 
+    "nomeCanzone": "Hotis Drama", 
+    "artisti": ["Sataf"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20211106-WA0073.opus", 
+    "nomeCanzone": "Entro senza bussare la", 
+    "artisti": ["Sataf"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20211106-WA0074.opus", 
+    "nomeCanzone": "Etica", 
+    "artisti": ["Sataf"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20211106-WA0076.opus", 
+    "nomeCanzone": "Carne rossa", 
+    "artisti": ["Sataf"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20211106-WA0077.opus", 
+    "nomeCanzone": "Tony Montana", 
+    "artisti": ["Sataf"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20211106-WA0128.opus", 
+    "nomeCanzone": "Losing interest", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20211108-WA0007.mp3", 
+    "nomeCanzone": "Troppo randagio", 
+    "artisti": ["Sataf"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20211108-WA0009.mp3", 
+    "nomeCanzone": "4metriQuadri", 
+    "artisti": ["Sataf"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20211109-WA0031.mp3", 
+    "nomeCanzone": "Debiti", 
+    "artisti": ["QG"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20211109-WA0045.opus", 
+    "nomeCanzone": "Pensieri pesanti", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20211126-WA0003.opus", 
+    "nomeCanzone": "Sega e siga", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20211202-WA0016.opus", 
+    "nomeCanzone": "Io sono Gianni Ninivaggi", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20211202-WA0017.opus", 
+    "nomeCanzone": "Andrea, fai venire Annamaria", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20211202-WA0019.opus", 
+    "nomeCanzone": "C'ho", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20211205-WA0029.opus", 
+    "nomeCanzone": "Smetriche", 
+    "artisti": ["Ignis"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20211222-WA0040.opus", 
+    "nomeCanzone": "Chilling moment", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20211224-WA0018.opus", 
+    "nomeCanzone": "NONE'COSI", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20211224-WA0019.opus", 
+    "nomeCanzone": "Nessun matrimonio!", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20211224-WA0020.opus", 
+    "nomeCanzone": "Io sono Francesco", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20220107-WA0000.mp3", 
+    "nomeCanzone": "Insetto stecco", 
+    "artisti": [], 
+    "tipo": "1" 
+  },
+  { 
+    "idCanzone": "AUD-20220117-WA0045.opus", 
+    "nomeCanzone": "Onore allo svarione", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20220213-WA0040.mp3", 
+    "nomeCanzone": "Fiato", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220304-WA0046.opus", 
+    "nomeCanzone": "Ispirazione", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220305-WA0037.opus", 
+    "nomeCanzone": "Sono Martina Maiullari", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20220307-WA0022.mp3", 
+    "nomeCanzone": "Terrazza (prod Taba)", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220311-WA0009.mp3", 
+    "nomeCanzone": "Santini", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220316-WA0031.opus", 
+    "nomeCanzone": "Rap game", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220402-WA0002.opus", 
+    "nomeCanzone": "Signor Peppino, venga qui", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20220408-WA0028.mp3", 
+    "nomeCanzone": "Something in the way", 
+    "artisti": ["Riso"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220426-WA0015.mp3", 
+    "nomeCanzone": "Pel fratello mio", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220502-WA0013.mp3", 
+    "nomeCanzone": "Bruciami", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220505-WA0009.opus", 
+    "nomeCanzone": "Sono appena arrivato a Pordenone", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20220526-WA0081.mp3", 
+    "nomeCanzone": "Ristagnando (L'incognita)", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220526-WA0092.mp3", 
+    "nomeCanzone": "Casa", 
+    "artisti": ["QG"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220619-WA0025.mp3", 
+    "nomeCanzone": "Mani in alto", 
+    "artisti": ["Lil Xenia"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220620-WA0010.mp3", 
+    "nomeCanzone": "Questura", 
+    "artisti": [], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220620-WA0014.mp3", 
+    "nomeCanzone": "Matera sulle spalle", 
+    "artisti": [], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220702-WA0015.mp3", 
+    "nomeCanzone": "Vino bianco", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220702-WA0022.mp3", 
+    "nomeCanzone": "Vino bianco 2", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220705-WA0013.mp3", 
+    "nomeCanzone": "Nan rdenn (prod Sataf)", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220713-WA0048.mp3", 
+    "nomeCanzone": "Caffè latte (prod Sataf)", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220713-WA0049.mp3", 
+    "nomeCanzone": "Me complace amarte", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220729-WA0067.opus", 
+    "nomeCanzone": "Morto mai", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220802-WA0018.opus", 
+    "nomeCanzone": "T piesc u gleit", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20220803-WA0029.mp3", 
+    "nomeCanzone": "In piedi (prod Renna)", 
+    "artisti": ["Cimabue", "Matya Bacan", "Sataf", "Verbal Kint"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220812-WA0022.opus", 
+    "nomeCanzone": "Bari Palese", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220825-WA0048.opus", 
+    "nomeCanzone": "Non so se mi vedi", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220825-WA0049.opus", 
+    "nomeCanzone": "Non so se mi vedi 2", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220826-WA0052.opus", 
+    "nomeCanzone": "Trappin in Altamura", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220827-WA0041.opus", 
+    "nomeCanzone": "Ombre", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220830-WA0054.opus", 
+    "nomeCanzone": "Fiori", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220831-WA0014.opus", 
+    "nomeCanzone": "HHRacconti", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20220924-WA0026.opus", 
+    "nomeCanzone": "Per strapparvi un sorriso", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20221002-WA0019.opus", 
+    "nomeCanzone": "Mo medja mett a grdè", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20230209-WA0034.opus", 
+    "nomeCanzone": "La porcon", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20230209-WA0035.mp3", 
+    "nomeCanzone": "Vera Ciaccia RMX", 
+    "artisti": ["VeraCicia"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20230214-WA0034.mp3", 
+    "nomeCanzone": "Vera Ciaccia RMX 2", 
+    "artisti": ["VeraCicia"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20230223-WA0055.mp3", 
+    "nomeCanzone": "Puccia Martina", 
+    "artisti": ["Movitella"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20230224-WA0069.opus", 
+    "nomeCanzone": "Ti va?", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20230304-WA0016.opus", 
+    "nomeCanzone": "Frah, quann uè", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20230305-WA0012.opus", 
+    "nomeCanzone": "Oh Pasquà che cazz", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20230307-WA0096.opus", 
+    "nomeCanzone": "Pisello sessuale?", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20230328-WA0020.opus", 
+    "nomeCanzone": "Amo l'eroina", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20230404-WA0034.opus", 
+    "nomeCanzone": "Blu cobalto (live)", 
+    "artisti": ["Nida", "Sataf"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20230404-WA0035.opus", 
+    "nomeCanzone": "San Marco (live)", 
+    "artisti": ["Funky S", "Sataf"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20230404-WA0036.opus", 
+    "nomeCanzone": "Roki (live)", 
+    "artisti": ["Roki"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20230404-WA0037.opus", 
+    "nomeCanzone": "Dada (Dimmi qual è il nome)", 
+    "artisti": ["Dada"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20230404-WA0038.opus", 
+    "nomeCanzone": "Uccido la mia culla (live)", 
+    "artisti": ["Vizzy"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20230514-WA0045.mp3", 
+    "nomeCanzone": "Gnostr e sagn", 
+    "artisti": ["Sataf"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20230515-WA0023.mp3", 
+    "nomeCanzone": "Gnostr e sagn 2", 
+    "artisti": ["Sataf"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20230526-WA0018.opus", 
+    "nomeCanzone": "Ignazio fai qualche magia", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20230526-WA0019.opus", 
+    "nomeCanzone": "Cazzo mi so scordato", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20230712-WA0008.opus", 
+    "nomeCanzone": "Sandra Kiss...", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20230924-WA0098.opus", 
+    "nomeCanzone": "Caccarella", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20231026-WA0024.opus", 
+    "nomeCanzone": "Oggi sono depresso", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20231026-WA0025.opus", 
+    "nomeCanzone": "Rimshot App", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20240309-WA0046.opus", 
+    "nomeCanzone": "Quante bombolette mi dai", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20241026-WA0079.opus", 
+    "nomeCanzone": "Fort stu uagnaun", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20250217-WA0068.opus", 
+    "nomeCanzone": "Questa è Pugno Chiuso brotherz", 
+    "artisti": [], 
+    "tipo": "2" 
+  },
+  { 
+    "idCanzone": "AUD-20250408-WA0015.mp3", 
+    "nomeCanzone": "Me stesso", 
+    "artisti": ["Lil Xenia", "QG"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20250423-WA0135.mp3", 
+    "nomeCanzone": "Scendo con un fischio", 
+    "artisti": ["Nida"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20250426-WA0057.mp3", 
+    "nomeCanzone": "Nuovo papi", 
+    "artisti": ["Gionni El Piovra"], 
+    "tipo": "0" 
+  },
+  { 
+    "idCanzone": "AUD-20250508-WA0052.opus", 
+    "nomeCanzone": "Lord Vladimur Succulenta", 
+    "artisti": [], 
+    "tipo": "2" 
+  }
+]

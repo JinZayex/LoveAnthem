@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rub-A-Data - Audio Files</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+
+    h1 {
+      text-align: center;
+      color: #db3a34;
+    }
+
+    ol {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr); /* 2 colonne */
+      gap: 15px;
+      list-style-type: none;
+      padding: 0;
+    }
+
+    li {
+      background-color: #f9f9f9;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      padding: 10px;
+    }
+
+    .audio-title {
+      font-weight: bold;
+      margin-bottom: 5px;
+      font-size: 14px;
+    }
+
+    audio {
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rub-A-Data - Audio Player</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 20px;
+    }
+
+    h1 {
+      text-align: center;
+      color: #db3a34;
+    }
+
+    ol {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+      padding: 0;
+      list-style-type: none;
+    }
+
+    li {
+      background: #f9f9f9;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      padding: 15px;
+    }
+
+    .title {
+      font-weight: bold;
+      margin-bottom: 8px;
+    }
+
+    audio {
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🎧 Brani Catalogati</h1>
+  <ol id="audio-list"></ol>
+
+  <script>
+    fetch('script.json')
+      .then(response => response.json())
+      .then(data => {
+        const list = document.getElementById('audio-list');
+        data.forEach(song => {
+          const li = document.createElement('li');
+          li.innerHTML = `
+            <div class="title">${song.nomeCanzone}</div>
+            <audio controls>
+              <source src="audio/${song.artisti}" type="audio/mp3">
+              Il tuo browser non supporta l'audio HTML5.
+            </audio>
+          `;
+          list.appendChild(li);
+        });
+      })
+      .catch(error => {
+        console.error("Errore nel caricamento di script.json:", error);
+      });
+  </script>
+
+</body>
+</html>
+
+
+</body>
+</html>
