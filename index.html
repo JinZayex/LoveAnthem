@@ -91,7 +91,7 @@
   <ol id="audio-list"></ol>
 
   <script>
-    fetch('script.json')
+    fetch('https://jinzayex.github.io/LoveAnthem/songs.json')
       .then(response => response.json())
       .then(data => {
         const list = document.getElementById('audio-list');
@@ -99,8 +99,9 @@
           const li = document.createElement('li');
           li.innerHTML = `
             <div class="title">${song.nomeCanzone}</div>
+            <div>${song.artisti}</div>
             <audio controls>
-              <source src="audio/${song.artisti}" type="audio/mp3">
+              <source src="audio/${song.idCanzone}" type="audio/mp3">
               Il tuo browser non supporta l'audio HTML5.
             </audio>
           `;
